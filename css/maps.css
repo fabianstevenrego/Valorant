@@ -1,0 +1,32 @@
+body{
+    background-color: #d1cfcf;
+}
+
+.navbar{
+    padding-left: 20px;
+}
+
+.botones{
+    width: 100vw;
+    margin-top: 2px;
+    padding: 10px;
+}
+
+/*carrusel */
+
+#mi-imagen{
+    height: 600px;
+}
+
+.imgvp{
+    padding: 170px 0px;
+}
+
+#parrafo{
+    background-color: #fff1;
+    color: #000;
+}
+
+.flecha{
+    color: #000;
+}
